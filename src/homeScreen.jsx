@@ -18,7 +18,7 @@ function HomeScreen() {
       >
         logout
       </button>
-      <h3>{det.name}</h3>
+      <h2>{det.name}</h2>
       <h3>{det.email}</h3>
       <h3>{det.phone}</h3>
       <h3>{det.newThing}</h3>
